@@ -1,16 +1,16 @@
 # jdbc_wrapper
 
-This jdbc wrapper is made to make crud operations on any of your database easily.
+This jdbc wrapper is made to make crud operations on any of your relational database easy from your java application .
 
 Note: Make sure the driver for the particular database(mysql-connector,oracle-connector,etc) is installed and classpath is set.
 
 Advantages of using this wrapper:
 
-Switch between database easily with minimal change in code.
+-Switch between database easily with minimal change in code.
 
-No need to worry about loading and registering the driver for the user.
+-No need to worry about loading and registering the driver for the user.
 
-Abstracting the jdbc steps to read,create,update etc and maintain the datastructures. 
+-Abstracting the jdbc steps to read,create,update etc and maintain the datastructures. 
 
 
 
